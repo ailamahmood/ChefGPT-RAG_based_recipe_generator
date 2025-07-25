@@ -37,15 +37,6 @@ Generated Recipe (Name, Ingredients, Steps)
 
 ---
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/yourusername/chefgpt.git
-cd chefgpt
-
-# Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# Install dependencies
+# ⚙️ Install dependencies
 pip install -r requirements.txt
+
