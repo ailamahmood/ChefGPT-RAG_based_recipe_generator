@@ -2,6 +2,10 @@
 
 ChefGPT is a **Retrieval-Augmented Generation (RAG)**-based AI system designed to generate personalized recipes based on available ingredients and user preferences. It combines a large corpus of recipe data with vector-based semantic search and generative AI to provide relevant, creative, and useful recipe suggestions.
 
+# Deployed App Link
+
+https://chefgpt-ragbasedrecipegenerator-77kpmsrf5obwnhfjsz9jnx.streamlit.app/
+
 ## 🚀 Features
 
 - 🥦 Input-based recipe generation using ingredients and dietary preferences.
